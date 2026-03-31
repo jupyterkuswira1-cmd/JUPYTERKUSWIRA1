@@ -1,0 +1,45 @@
+body{
+    background:white;
+    font-family: Arial, sans-serif;
+}
+
+.header{
+    background:blue;
+    color:#fff;
+    padding:15px;
+}
+
+.header h1{
+    margin:0;
+}
+
+.menu{
+    background:darkslategray;
+    padding:8px;
+}
+
+.menu a{
+    color:white;
+    margin-right:15px;
+    text-decoration:none;
+}
+
+.menu a:hover{
+    color:orange;
+}
+
+.container{
+    background:white;
+    padding:20px;
+    margin-top:20px;
+}
+
+h2{
+    margin-top:20px;
+}
+
+.foto{
+    width:280px;
+    margin-top:10px;
+    border:1px solid #cccccc;
+}
